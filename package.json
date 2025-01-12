@@ -1,5 +1,5 @@
 {
-  "homepage": "bilal-portfolio",
+  "name":"bilal-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
