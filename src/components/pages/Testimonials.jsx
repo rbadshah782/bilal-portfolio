@@ -18,7 +18,7 @@ export const Testimonials = () => {
       <section className='testimonials hero'>
         <div className='container'>
           <Slider {...settings}>
-            {testimonials.map((val) => (
+            {/* {testimonials.map((val) => (
               <div className='box'>
                 <i data-aos='zoom-out-up'>
                   <FormatQuoteIcon />
@@ -30,7 +30,7 @@ export const Testimonials = () => {
                 <h3 data-aos='zoom-out-left'>{val.name}</h3>
                 <label data-aos='zoom-out'>{val.post}</label>
               </div>
-            ))}
+            ))} */}
           </Slider>
         </div>
       </section>

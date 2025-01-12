@@ -11,14 +11,15 @@ import { Hero } from "./Hero"
 export const Home = () => {
   return (
     <>
-      <Hero />
+    <div className="home">
+    <Hero />
       <About />
-      <Services />
-      <Counter />
+      <Services />   
       <Portfolio />
-      <Testimonials />
       <Blog />
       <Contact />
+    </div>
+   
     </>
   )
 }
