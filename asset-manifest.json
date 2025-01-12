@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/bilal-portfolio-react/static/css/main.77e931e3.css",
+    "main.js": "/bilal-portfolio-react/static/js/main.66b8b06f.js",
+    "static/media/home-bg.png": "/bilal-portfolio-react/static/media/home-bg.62a287a4c574f4cefae5.png",
+    "static/media/testimonials-bg.png": "/bilal-portfolio-react/static/media/testimonials-bg.ec360b89e4cb398056f7.png",
+    "static/media/some-facts-bg.png": "/bilal-portfolio-react/static/media/some-facts-bg.1be1e9076a91e1574153.png",
+    "static/media/slick.svg": "/bilal-portfolio-react/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/bilal-portfolio-react/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/bilal-portfolio-react/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/bilal-portfolio-react/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/bilal-portfolio-react/index.html",
+    "main.77e931e3.css.map": "/bilal-portfolio-react/static/css/main.77e931e3.css.map",
+    "main.66b8b06f.js.map": "/bilal-portfolio-react/static/js/main.66b8b06f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77e931e3.css",
+    "static/js/main.66b8b06f.js"
+  ]
+}
